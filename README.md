@@ -11,6 +11,8 @@ Cybesecurity Projects:
 
 [Azure SOC with Honeynet](https://github.com/CyberThanh/Azure-SOC-Honeynet-Project)
 
+
+Intrusion Detection in AWS - In Progress
  
  IT Projects:
 
