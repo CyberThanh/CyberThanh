@@ -3,7 +3,9 @@
 <h1 align="center">Hi, Friends 👋 I'm Thanh!</h1>
 <h3 align="center">I'm a cybersecurity/cloud security professional who enjoys learning. This is a space where I showcase my projects. Welcome and enjoy your visit.</h3>
 
-  
+Vulnerability Projects:
+Qualys Vulnerability Management Detection and Response - In Progress 
+
 Cybesecurity Projects: 
 
 [Azure SOC with Honeynet](https://github.com/CyberThanh/Azure-SOC-Honeynet-Project)
