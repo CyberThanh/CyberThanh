@@ -4,6 +4,7 @@
 <h3 align="center">I'm a cybersecurity/cloud security professional who enjoys learning. This is a space where I showcase my projects. Welcome and enjoy your visit.</h3>
 
 Vulnerability Projects:
+
 Qualys Vulnerability Management Detection and Response - In Progress 
 
 Cybesecurity Projects: 
