@@ -3,7 +3,7 @@
 <h1 align="center">Hi, Friends 👋 I'm Thanh!</h1>
 <h3 align="center">I'm a cybersecurity/cloud security professional who enjoys learning. This is a space where I showcase my projects. Welcome and enjoy your visit.</h3>
 
-## Vulnerability Projects:
+## Vulnerability Management Projects:
 
 [OpenVas Vulnerability Management](https://github.com/CyberThanh/OpenVas-Vulnerability-Management)
 
