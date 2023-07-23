@@ -3,21 +3,21 @@
 <h1 align="center">Hi, Friends 👋 I'm Thanh!</h1>
 <h3 align="center">I'm a cybersecurity/cloud security professional who enjoys learning. This is a space where I showcase my projects. Welcome and enjoy your visit.</h3>
 
-Vulnerability Projects:
+## Vulnerability Projects:
 
 [OpenVas Vulnerability Management](https://github.com/CyberThanh/OpenVas-Vulnerability-Management)
 
 
 Qualys Vulnerability Management Detection and Response - In Progress 
 
-Cybesecurity Projects: 
+## Cybersecurity Projects: 
 
 [Azure SOC with Honeynet](https://github.com/CyberThanh/Azure-SOC-Honeynet-Project)
 
 
 Intrusion Detection in AWS - In Progress
  
- IT Projects:
+## IT Projects:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
