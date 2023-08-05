@@ -14,6 +14,7 @@ Qualys Vulnerability Management Detection and Response - In Progress
 
 [Azure SOC with Honeynet](https://github.com/CyberThanh/Azure-SOC-Honeynet-Project)
 
+[Phishing Email Report Writing](https://github.com/CyberThanh/Phisphing-Report-Writing)
 
 Intrusion Detection in AWS - In Progress
  
