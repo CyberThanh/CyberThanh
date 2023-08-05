@@ -10,13 +10,17 @@
 
 Qualys Vulnerability Management Detection and Response - In Progress 
 
-## Cybersecurity Projects: 
+## Blue Team Projects: 
 
 [Azure SOC with Honeynet](https://github.com/CyberThanh/Azure-SOC-Honeynet-Project)
 
 [Phishing Email Report Writing](https://github.com/CyberThanh/Phisphing-Report-Writing)
 
 Intrusion Detection in AWS - In Progress
+
+## GRC Projects:
+
+## Red Team Projects:
  
 ## IT Projects:
 
