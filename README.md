@@ -16,6 +16,8 @@ Qualys Vulnerability Management Detection and Response - In Progress
 
 [Phishing Email Report Writing](https://github.com/CyberThanh/Phisphing-Report-Writing)
 
+[Malware Network Analysis](https://github.com/CyberThanh/Malware-Traffic-PCAPs-Analysis)
+
 Intrusion Detection in AWS - In Progress
 
 ## GRC Projects:
